@@ -64,7 +64,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CiTRuS93&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div><img src="https://github-readme-stats.vercel.app/api?username=CiTRuS93&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -77,10 +77,14 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=CiTRuS93&&style=flat-square" align="center" />
-
+  <p float="left">
+<img src="https://komarev.com/ghpvc/?username=CiTRuS93&&style=flat-square"/><img src="https://visitor-badge.glitch.me/badge?page_id=CiTRuS93"/>
+  </p>
+<br />
 </div>  
 
+
+## Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#213](https://github.com/guytepper/1km.co.il/issues/213) in [guytepper/1km.co.il](https://github.com/guytepper/1km.co.il)
 2. 💪 Opened PR [#213](https://github.com/guytepper/1km.co.il/pull/213) in [guytepper/1km.co.il](https://github.com/guytepper/1km.co.il)
