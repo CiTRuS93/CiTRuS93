@@ -86,3 +86,9 @@
 
 <br />
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#213](https://github.com/guytepper/1km.co.il/issues/213) in [guytepper/1km.co.il](https://github.com/guytepper/1km.co.il)
+2. 💪 Opened PR [#213](https://github.com/guytepper/1km.co.il/pull/213) in [guytepper/1km.co.il](https://github.com/guytepper/1km.co.il)
+3. 🎉 Merged PR [#2](https://github.com/CiTRuS93/1km.co.il/pull/2) in [CiTRuS93/1km.co.il](https://github.com/CiTRuS93/1km.co.il)
+4. 💪 Opened PR [#2](https://github.com/CiTRuS93/1km.co.il/pull/2) in [CiTRuS93/1km.co.il](https://github.com/CiTRuS93/1km.co.il)
+5. 🗣 Commented on [#127](https://github.com/guytepper/1km.co.il/issues/127) in [guytepper/1km.co.il](https://github.com/guytepper/1km.co.il)
+<!--END_SECTION:activity-->
