@@ -78,7 +78,7 @@
 
 <div align="center">
   <p float="left">
-<img src="https://komarev.com/ghpvc/?username=CiTRuS93&&style=flat-square"/><img src="https://visitor-badge.glitch.me/badge?page_id=CiTRuS93"/>
+<img src="https://komarev.com/ghpvc/?username=CiTRuS93&&style=flat-square"/>
   </p>
 <br />
 </div>  
